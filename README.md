@@ -1,4 +1,4 @@
-<img align=left src="https://falken-home.herokuapp.com/static/home_project/img/falken_logo.png">
+<img align=left src="https://richionline-portfolio.nw.r.appspot.com/static/assets/falken_logo.ico" width=60>
 
 ### Hi there 👋
 
