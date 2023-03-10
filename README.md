@@ -1,4 +1,4 @@
-<img align=left src="https://richionline-portfolio.nw.r.appspot.com/static/assets/falken_logo.ico" width=70>
+<img align=left src="https://richionline-portfolio.nw.r.appspot.com/static/assets/falken_logo.png" width=70>
 
 ### Hi there 👋
 
