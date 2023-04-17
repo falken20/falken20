@@ -1,6 +1,6 @@
 <img align=left src="https://richionline-portfolio.nw.r.appspot.com/static/assets/falken_logo_trans.png" width=70>
 
-### Hi there 👋
+### Hi there 👋 🇪🇺
 
 I am Richi Rod and I'm a **Python developer** but I like to try others languajes.
 
